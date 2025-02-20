@@ -1,0 +1,4 @@
+rawpy>=0.17.0
+imageio>=2.9.0
+opencv-python>=4.5.0
+tqdm>=4.50.0
